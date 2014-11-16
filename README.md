@@ -85,5 +85,5 @@ I love :coffee:,:pizza:,and:dancer:.I have to writte something.
 I love :coffee:,:pizza:,and:dancer:.I have to writte something.
 I love :coffee:,:pizza:,and:dancer:.I have to writte something.
 I love :coffee:,:pizza:,and:dancer:.I have to writte something.
-I love :coffee:,:pizza:,and:dancer:.I have to writte something.
+I love :coffee:,:coffee:,and:coffee:.I have to writte something.
 I love :pizza:,:pizza:,and:pizza:.
